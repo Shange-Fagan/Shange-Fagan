@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shange-Fagan
-- 👀 I’m interested in coding, poetry, art
+- 👀 I’m interested in coding, art
 - 🌱 I’m currently learning three js
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me: shangefagansf@outlook.com
